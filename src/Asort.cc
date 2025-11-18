@@ -3,8 +3,8 @@
 
 // Your ASort function(s) goes here selection sort
 
-template <class T>
-void selectionSort(T data[], int n)
+
+void selectionSort(long data[], int n)
 {
     // i tracks the boundary between the sorted and unsorted portions
     for (int i = 0; i < n - 1; i++)

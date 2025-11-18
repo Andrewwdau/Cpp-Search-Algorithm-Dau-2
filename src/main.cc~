@@ -8,7 +8,7 @@
 //  stack space, expect a segmentation fault. In order to increase your
 //  stack space, run the following command from your terminal:
 //  ulimit -s 819200
-
+/*
 #include <iostream>
 #include <ctime>
 #include "myheaders.h"
@@ -114,4 +114,4 @@ int main() {
 	
 	return 0;
 }
-
+*/

@@ -12,5 +12,5 @@ void	printarray(long data[], long size);
 int		readfile(string infilename, long data[]);
 int		writefile(long data[], long size, string outfilename);
 void	swap(long& x, long& y);
-void    selectionSort(T data[], int n); 
+void    selectionSort(long data[], int n);
 void countingsort(long data[], const long n);
